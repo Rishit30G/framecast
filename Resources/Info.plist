@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>Framecast</string>
+    <key>CFBundleDisplayName</key>
+    <string>Framecast</string>
+    <key>CFBundleIdentifier</key>
+    <string>local.framecast.app</string>
+    <key>CFBundleExecutable</key>
+    <string>Framecast</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.video</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Framecast records your camera so you can appear alongside your screen recording.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Framecast records your microphone for narration and voiceovers.</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>Framecast transcribes your voice on this Mac to generate captions.</string>
+</dict>
+</plist>

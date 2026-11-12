@@ -1,0 +1,19 @@
+# Swift / build output
+.build/
+build/
+*.dmg
+.swiftpm/
+DerivedData/
+*.xcuserstate
+
+# Website
+website/node_modules/
+website/.next/
+website/out/
+website/next-env.d.ts
+
+# Marketing working files and local tools
+marketing/
+
+# macOS
+.DS_Store
